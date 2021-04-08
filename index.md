@@ -44,7 +44,7 @@ En fonction de l'heure de la journée également, mes chances de faire un accide
 # Femme au volant, mort au tourant ?
 
 Pour de finir ce récit mêlant habilement humour, analyses quantitatives et tristes événements, évoquer un point nous a semblé essentiel : la légitime déconstruction du cliché stipulant l'incompétence des femmes au volant. 
-En effet, elles sont non seulement incluses dans moins d'accidents que les hommes, mais leurs accidents sont systématiquement moins graves. Les mauvaises langues diront qu'elles conduisent moins et qu'il est facile de faire moins d'accidents si on reste chez soi. Malheureusement pour ces mauvais esprit, leurs taux d'accident et leurs taux d'accidents mortels sont également systématiquement inférieurs à ceux des hommes. Ainsi il semblerait fécond (ou salvateur ?) de conduire en étant plus alerte, attentif et prudent, des caractéristiques qu'on observe plus fréquemment chez les femmes, et de façon significative. 
+En effet, elles sont non seulement incluses dans moins d'accidents que les hommes, mais leurs accidents sont systématiquement moins graves. Les mauvaises langues diront qu'elles conduisent moins et qu'il est facile de faire moins d'accidents si on reste chez soi. Malheureusement pour ces mauvais esprits, leurs taux d'accident et leurs taux d'accidents mortels sont également systématiquement inférieurs à ceux des hommes. Ainsi il semblerait fécond (ou salvateur ?) de conduire en étant plus alerte, attentif et prudent, des caractéristiques qu'on observe plus fréquemment chez les femmes, et de façon significative. 
 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://quentinensae.github.io/Site-Accident-Voiture/accidents_femme.html" height="525" width="100%"></iframe>
