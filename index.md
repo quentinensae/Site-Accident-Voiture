@@ -18,7 +18,7 @@ Comment expliquer cette réduction ? Elle concorde en tout cas avec l'introducti
 Cette carte nous présente le taux d'accidents bénins (sain et sauf ou légèrement blessé) par département. Quelles leçons en tirer ? Il sembleraient que les régions les plus urbanisées permettent la plus grande probabilité, se sachant accidenté, d'en sortir indemne. Le bilan de l'accidentalité routière de 2016 montre par exemple que 62% des accidents mortels surviennent sur une route de campagne, alors que 61% des accidents n'impliquant que des blessures surviennent en ville. Cela corrobore les résultats d'études ministérielles qui elles-mêmes corroborent une réalité plutôt intuitive : plus on roule vite, plus l'accident risque de malmener fortement les malchanceux (ou dangereux criminels) impliqués. Ainsi, profiter des zones de rencontre prudemment pratiquées par des automobilistes inquiets semble être une stratégie optimale pour raconter de croustillantes aventures qui ennuiront toutefois rapidement vos proches : vous ne portez même pas de plâtre. 
 Affinons toutefois : si vous êtes un piéton, privilégiez la campagne. En ville, vous êtes en effet jusqu'à 3 fois plus susceptible de mourir en cas d'accident. De même, si vous êtes un deux-roues, méfiez-vous du soleil de la Corse et de la région Provence-Alpes-Côte-d'Azur (et de Paris, sans surprise) : votre mortalité y est 30% supérieure. 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://quentinensae.github.io/Site-Accident-Voiture/carte_ds.png" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://quentinensae.github.io/Site-Accident-Voiture/carte_ds.png" height="325" width="100%"></iframe>
 
 ## Les trajets
 
