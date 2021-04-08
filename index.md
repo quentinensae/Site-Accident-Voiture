@@ -27,15 +27,15 @@ Des chiffres précédents, nous pouvons retenir ceci : moins il y a de danger su
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://quentinensae.github.io/Site-Accident-Voiture/trajet.html" height="525" width="100%"></iframe>
 
-## La saisonnialité
+## La saisonnalité
 
-### Par jours
+### Par jour
 
 En fonction de la période de l'année, la probabilité de réaliser un accident varie substantiellement. Ici est représenté le nombre quotidien d'accidents enregistrés entre 2005 et 2016, quel que soit le moyen de transport. On constate quelques évolutions marquantes : durant les mois d'avril à juin, ce nombre augmente de 20%. Le bilan de l'accidentalité routière de 2018 indique que cette augmentation résulte sans surprise d'une météo plus propice à des déplacements d'ordre personnel : le trajet vers son lieu de villégiature semble périlleux... Nuancer ce propos semble néanmoins important : une fois le début des vacances d'été passé, le nombre d'accidents diminue jusqu'à la rentrée scolaire. Le bilan de l'accidentalité routière explique l'importance d'une capitale à la population amoindrie en été : c'est l'un des facteurs importants de cette réduction. 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://quentinensae.github.io/Site-Accident-Voiture/accidents_année.html" height="525" width="100%"></iframe>
 
-### Par heures
+### Par heure
 
 En fonction de l'heure de la journée également, mes chances de faire un accident varient. Ainsi, la part importante des accidents qui ont lieu sur le trajet reliant le domicile au lieu de travail se retrouve bien, puisque les heures de pointe en termes de congestion sont également les heures de pointe en terme d'accidentalité. Notons qu'elle est largement supérieure au retour de la journée, la fin du labeur ne signifie donc pas la fin des désagréments ! (Elle l'est aussi en raison de l'augmentation très importante des accidents impliquant des piétons lors du passage à l'heure d'hiver, pendant plus de 2 mois par an, qui affecte surtout les heures de retour). 
 
